@@ -1,0 +1,21 @@
+
+.new-container {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 70px;
+	max-width: 60rem;
+	padding: 5rem;
+  background-color: #C0C0C0;
+}
+.titulo{
+  margin-right: 40px;
+  margin-top: 30px;
+}
+.text {
+	max-width: 60rem;
+	margin: 10rem auto;
+	
+}
+.conteudo{
+  margin-top: 30px;
+}
